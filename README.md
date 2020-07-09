@@ -2,14 +2,8 @@
 
 I am Garima Singh. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
 
-
 ### 😄 Pronouns
 She/Her
-<div align="center">
-
-<img src="contributions.png" width="600" height="400">
-</div>
-
 
 ### 🌱 What do I do?
 - ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna.
