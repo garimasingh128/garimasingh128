@@ -25,6 +25,9 @@ If you would like to discuss these things, you can join me on [Twitter](https://
 ### 💬 Want to know more about me?
 You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourcerer](https://sourcerer.io/garimasingh128).
 
+
+<img src="stats.gif" width="90%"><br/><br/>
+
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
