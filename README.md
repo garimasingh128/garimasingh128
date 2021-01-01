@@ -28,6 +28,14 @@ You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourc
 
 <img src="stats.gif" width="90%"><br/><br/>
 
+***
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
