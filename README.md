@@ -1,40 +1,55 @@
 # Hello, geeks! 👋
 
-I am Garima Singh. I consider myself as a smart worker and determined team player. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks.
+I am Garima Singh. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ### 😄 Pronouns
 She/Her
 
-### 🌱 What do I do?
-- ✔️Along with it, I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna.
+### 🌱 What do I do? 
 
-- ✔️I'm a fast learner looking for interesting career opportunities in Android and Web as a full-stack developer. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. I am looking for growth. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
+- Mentor at OpenMined
+- Recipient of Twitter #DevelopHer India 2020 Scholarship
+- Mentor and Project Admin at Kharagpur Winter of Code, IIT Kharagpur 2020-21, NJACK Winter of Code, IIT Patna 2020-21, Student Code-in 2020, Build with LetsUpgrade 2020, Contributors's Hack Hackin Codes, 
+- Innovations Lead at Developer Student Club, NIT Patna
+- Co-Founder and Project Lead at Hackslash Mozilla Campus Club
+- Ex-Mentor at AnitaB Organisation for Open Source Hack 2020
+- Alexa Student Influencer 2020 and Chapter Lead at Alexa Dev Hub
+- Current Intern at GeeksForGeeks 
+- Past Full Stack Development Intern at Dataly Services 
+- Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
+- Participated and Mentored at various Girlscript Foundation programs
+- Bertelsmann Scholarship 2020 Recipient and Machine learning Scholarship program for Microsoft Azure Recipient issued by Udacity 
+- SheCode 2020 Winner by IEEE Women in Engineering
+- Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
+- Internshala Student Partner 2020
+- Past Mentor at Hack with CW International Hackathon
+- CST UP Science Talent Scholarship 2016-17 Recipient by Board of Technical Education, Uttar Pradesh
 
-- ✔️My activities are much beyond my stream of education. I am involved in a lot of organizational works in college related to clubs, fests and workshops and helped in building many communities from scratch. Apart from this, I love the marketing and stocks field. I am a keen observer and always inquisitive to learn new things. I fit beautifully to the environment and add to the diversity of the team and research has shown that diversity often makes for better, most successful teams. 
 
 ### ⚡ One line that describes me best? 
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
 
-### 👯 My other interests
-I have a knack for writing too and write on my personal blog- [Garima Codes](https://garimasingh.netlify.app/) or on [Medium](https://medium.com/@garingh128).
-I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
 ### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/garingh128) or [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/). You can also ask me anything (within reason).
+- [Twitter](https://twitter.com/garingh128) 
+- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
+- [My personal portfolio](http://garimasingh.me) 
+- [Sourcerer](https://sourcerer.io/garimasingh128).
+- My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
+- [Medium](https://medium.com/@garingh128)
 
-### 💬 Want to know more about me?
-You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourcerer](https://sourcerer.io/garimasingh128).
+You can ask me anything (within reason). I look forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
 
 <img src="stats.gif" width="90%"><br/><br/>
 
 ***
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
 
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
